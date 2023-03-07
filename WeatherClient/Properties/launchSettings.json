@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherClient": {
+      "commandName": "Project",
+      "commandLineArgs": "Delhi"
+    }
+  }
+}
